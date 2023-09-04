@@ -1,2 +1,4 @@
-# AI
-Estudo em inteligência artificial.
+# AI - Artificial Intelligence
+## Estudo em inteligência artificial.
+
+   Estudos sobre Inteligencia artificial usando Python.
